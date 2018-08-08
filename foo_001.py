@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 # dfaefawfwgajlaa
 """" ufqwlegfljaweg"""
-=======
-# dfaefawfwgajlaa
->>>>>>> origin/master
+print("hello")
